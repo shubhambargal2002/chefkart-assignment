@@ -1,0 +1,13 @@
+.form{
+  margin-top: 30px;
+}
+
+.viewer{
+  /* background-color: #e4e4e4; */
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 15px;
+}
